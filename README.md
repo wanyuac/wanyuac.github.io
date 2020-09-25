@@ -1,0 +1,1 @@
+Automatic redirection to the blog
