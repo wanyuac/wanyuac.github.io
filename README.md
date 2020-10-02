@@ -1,1 +1,1 @@
-Automatic redirection to the blog
+Automatic redirection to my academic blog
